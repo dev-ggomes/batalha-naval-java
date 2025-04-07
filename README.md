@@ -1,21 +1,20 @@
-# 💻Projeto em Java
+# 💻Project in Java
 
-Este projeto foi desenvolvido no início de 2023 e visa criar um ambiente amigável e interativo entre o jogador e o computador.
+<p>This project was developed in early 2023 and aims to create a friendly and interactive environment between the player and the computer</p>
 
-# 🫵🏽A escolha
+# 🫵🏽 The choice
 
-O jogo escolhido desta vez foi a "Batalha Naval". É verdade que seria mais fácil de desenvolver este tipo de jogos noutra linguagem de programação que não fosse Java? Sim, é. 
-Mas para quem gosta de desafios, desenvolver este jogo em Java foi uma boa escolha.
-
-Uma escolha com muitas dores de cabeça, vários meses para ser desenvolvido, mas no fim o que interessa é que resultou e foi um sucesso.
+<p>The chosen game this time was "Battleship". Is it true that developing this type of game would be easier in another programming language rather than Java? Yes, it is.</p>
+<p>But for those who enjoy a challenge, developing this game in Java was a great choice.</p>
+<p>A choice that came with many headaches, several months of development, but in the end, what matters is that it worked -- and it was a success.</p>
 
 # 🎮O jogo
 
-O jogo está 100% desenvolvido em Java com Programação Orientada aos Objetos, os menus foram maioritariamente feitos com linhas de código, uma pequena parte foi feita com ajuda do próprio compilador utilizado: "Eclipse IDE".
+<p>The game is 100% developed in Java using Object-Oriented Programming. The menus were mostly created through lines of code, with a small part built using features from the compiler used: "Eclipse IDE".</p>
 
-Na altura, este foi o projeto mais longo e dificil que alguma vez tinha feito. 
-Interligar vários menus, ficheiros, imagens, linhas de código e botões para fazer com que tudo adquirisse uma boa harmonia foi o principal desafio.
+<p>At the time, this was the longest and most difficult project I had ever done.</p>
+<p>Connecting multiple menus, files, images, lines of code, and buttons to create a sense of harmony was the main challenge.</p>
 
-Para um adolescente com 16 anos que ainda só tinha tocado em C++, passar para POO em Java não foi uma tarefa fácil.
+<p>For a 16-year-old who had only worked with C++ before, switching to Object-Oriented Programming in Java was no easy task.</p>
 
-Admito que possam haver algumas linhas de código "a mais" ou desnecessárias para o projeto, mas com 16 anos foi o que eu fiz, foi o que resultou e por isso, fiz questão de deixar assim mesmo.
+<p>I admit, there may be some lines of code that are unnecessary or could be optimized, but at 16, this is what I built, it worked, and that’s why I chose to leave it just the way it is.</p>
