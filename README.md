@@ -2,7 +2,7 @@
 
 <p align="center">
   
-This project was developed in early `2023` and aims to create a friendly and interactive environment between the player and the computer
+This project was developed in early `2023` and aims to create a **friendly** and **interactive** environment between the player and the computer
 </p>
 
 <p align='center'>
