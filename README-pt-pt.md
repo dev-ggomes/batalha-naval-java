@@ -58,7 +58,7 @@
   
 </p>
 
-<p>Eu admito, pode haver linhas de código desnecessárias ou que podiam ser otimizadas, mas com 16 anos, foi assim que fiz, funcionou, e foi essa a razão pela qual eu deixei o código exatamente como eu o fiz na altura.</p>
+<p>Eu admito, pode haver linhas de código desnecessárias ou que podiam ser otimizadas, mas com 16 anos, foi assim que fiz, funcionou, e foi essa a razão pela qual eu deixei o código exatamente como o fiz na altura.</p>
 
 ---
 
