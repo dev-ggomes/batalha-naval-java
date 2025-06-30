@@ -1,3 +1,10 @@
+<!-- |||||||||||||||||||| EN - PT |||||||||||||||||||| -->
+<p align='center'>
+  <a href="https://github.com/dev-ggomes/batalha-naval-java/blob/main/README.md">🇺🇸 English</a> | 
+  <a href="https://github.com/dev-ggomes/batalha-naval-java/blob/main/README-pt-pt.md">ᴘᴛ Português</a> | 
+  <a href="https://github.com/dev-ggomes/batalha-naval-java/blob/main/README-pt-br.md">🇧🇷 Português</a>
+</p>
+
 <h1 align="center"> 💻Project in Java </h1>
 
 <p align="center">
@@ -50,3 +57,14 @@ This project was developed in early `2023` and aims to create a **friendly** and
 </p>
 
 <p>I admit, there may be some lines of code that are unnecessary or could be optimized, but at 16, this is what I built, it worked, and that’s why I chose to leave it just the way it is.</p>
+
+---
+
+<!-- |||||||||||||||||||| LICENSE |||||||||||||||||||| -->
+## 📄 License
+
+<p>
+  
+  This project is distributed under the **MIT License**. Check [LICENSE](https://github.com/dev-ggomes/batalha-naval-java?tab=MIT-1-ov-file) for full terms.
+
+</p>
