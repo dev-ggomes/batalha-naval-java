@@ -7,10 +7,11 @@
 
 <h1 align="center"> 💻Project in Java </h1>
 
-<p align="center">
+<div align="center">
   
-This project was developed in early `2023` and aims to create a **friendly** and **interactive** environment between the player and the computer
-</p>
+  This project was developed in early `2023` and aims to create a **friendly** and **interactive** environment between the player and the computer
+
+</div>
 
 <p align='center'>
   ⭐<b>If you liked this repository, please give it a star</b>
@@ -18,9 +19,9 @@ This project was developed in early `2023` and aims to create a **friendly** and
 
 <!-- |||||||||||||||||||| SPONSORS & STARS |||||||||||||||||||| -->
 <p align='center'>
-  <a href="https://github.com/sponsors/dev-ggomes"><img alt="Sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a>
+  <a href="https://github.com/sponsors/dev-ggomes"><img alt="Sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=social&logo=GitHub-Sponsors&logoColor=#white" /></a>
   &nbsp;
-  <a href="#"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dev-ggomes/batalha-naval-java?style=for-the-badge" /></a>
+  <a href="#"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dev-ggomes/batalha-naval-java?style=social" /></a>
 </p>
 
 <br>
