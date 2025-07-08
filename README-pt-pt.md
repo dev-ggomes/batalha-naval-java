@@ -7,11 +7,11 @@
 
 <h1 align="center"> 💻Projeto em Java </h1>
 
-<p align="center">
+<div align="center">
   
   Este projeto foi desenvolvido no início de `2023` e visa criar um ambiente **amigável** e **interativo** entre o jogador e o computador.
 
-</p>
+</div>
 
 <p align='center'>
   ⭐<b>Se gostou deste repositório, por favor contribua com uma estrela</b>
@@ -19,9 +19,9 @@
 
 <!-- |||||||||||||||||||| SPONSORS & STARS |||||||||||||||||||| -->
 <p align='center'>
-  <a href="https://github.com/sponsors/dev-ggomes"><img alt="Sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a>
+  <a href="https://github.com/sponsors/dev-ggomes"><img alt="Sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=social&logo=GitHub-Sponsors&logoColor=#white" /></a>
   &nbsp;
-  <a href="#"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dev-ggomes/batalha-naval-java?style=for-the-badge" /></a>
+  <a href="#"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dev-ggomes/batalha-naval-java?style=social" /></a>
 </p>
 
 <br>
